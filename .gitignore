@@ -1,0 +1,16 @@
+# Notebook and Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Third-party installer
+/qinst-lite-windows-24.1std-1077.exe
+
+# Local machine files and credentials
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
