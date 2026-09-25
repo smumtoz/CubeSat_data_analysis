@@ -6,7 +6,7 @@ Firmware, telemetry, notebooks, and research materials for the Pixie sensor proj
 
 - `pixie_final.ino`: STM32/Arduino firmware that reads pressure, temperature, magnetic, gyroscope, and acceleration sensors, with serial communication and SD-card logging.
 - `pixie/`: another firmware copy, a trajectory notebook, and the original `pixie_data.log` telemetry file.
-- `trajectroy.ipynb`: notebook with serial-reading and plotting code.
+- `pixie_dataAnalysis.ipynb`: notebook with code for analyzing the obtained data.
 - `pixie_data_with_time.csv`: telemetry data with time columns.
 - `UniSat_3_0_research_pixie.pdf`: project research document.
 - `Before launch.zip`: six project photographs.
